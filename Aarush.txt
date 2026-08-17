@@ -8,7 +8,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>Happy Birthday Misthi 🎉</title>
+  <title>Happy Birthday 🎉</title>
 
   <script src="https://cdn.tailwindcss.com"></script>
 
@@ -60,7 +60,7 @@
 
     <p id="surprise" class="mt-4 text-lg sm:text-xl font-semibold text-purple-600 hidden">
 
-      You are amazing! Have the best birthday ever Misthi! 💖
+      You are amazing! Have the best birthday ever! 💖
 
     </p>
 
